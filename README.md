@@ -19,6 +19,7 @@ Dynamic Landing Page.
 - To Top Button
 - Scroll behaviour is Smooth
 - Add Section Button to add new sections in the Navbar and body content.
+- Full Responsive.
 
 ### CSS Modification:
 - I modified the Navbar in mobile, tablet view using flexbox.
