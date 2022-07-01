@@ -30,4 +30,4 @@ Dynamic Landing Page.
 - Muhammad Eid
 
 ### Website Demo:
-https://muhammadeiid.github.io/Landing-Page/
+https://muhammadeiid.github.io/Landing-Page-FWD/
